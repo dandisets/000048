@@ -5,18 +5,8 @@
 access:
 - status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 590267164
-  numberOfFiles: 1
-  numberOfSubjects: 1
-  schemaKey: AssetsSummary
-  species: []
-  variableMeasured: []
+  numberOfBytes: 0
+  numberOfFiles: 0
 citation: Ledochowitsch, Peter; Huang, Lawrence; Knoblich, Ulf; Oliver, Michael; Lecoq,
   Jerome; Reid, Clay; Li, Lu; Zeng, Hongkui; Koch, Christof; Waters, Jack; Vries,
   Saskia E.J. de; Buice, Michael A. (2021) Electrical and optical physiology in in
