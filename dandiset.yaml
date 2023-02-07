@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000048
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -34,7 +35,7 @@ assetsSummary:
   - Units
 citation: Ledochowitsch, Peter; Huang, Lawrence; Knoblich, Ulf; Oliver, Michael; Lecoq,
   Jerome; Reid, Clay; Li, Lu; Zeng, Hongkui; Koch, Christof; Waters, Jack; Vries,
-  Saskia E.J. de; Buice, Michael A. (2022) Electrical and optical physiology in in
+  Saskia E.J. de; Buice, Michael A. (2023) Electrical and optical physiology in in
   vivo population-scale two-photon calcium imaging (Version draft) [Data set]. DANDI
   archive. https://dandiarchive.org/dandiset/000048/draft
 contributor:
@@ -110,14 +111,22 @@ description: 'Spiking activity and simultaneously recorded fluorescence signals 
 
 
   Reference: https://portal.brain-map.org/explore/circuits/oephys'
+ethicsApproval: []
 id: DANDI:000048/draft
 identifier: DANDI:000048
+keywords: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000048/versions/draft/assets/
 name: Electrical and optical physiology in in vivo population-scale two-photon calcium
   imaging
-repository: https://dandiarchive.org/
+protocol: []
+relatedResource: []
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000048/draft
 version: draft
+wasGeneratedBy: []
