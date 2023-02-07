@@ -39,10 +39,12 @@ citation: Ledochowitsch, Peter; Huang, Lawrence; Knoblich, Ulf; Oliver, Michael;
   vivo population-scale two-photon calcium imaging (Version draft) [Data set]. DANDI
   archive. https://dandiarchive.org/dandiset/000048/draft
 contributor:
-- includeInCitation: true
+- affiliation: []
+  includeInCitation: true
   name: Ledochowitsch, Peter
   roleName:
   - dcite:Author
+  - dcite:ContactPerson
   schemaKey: Person
 - includeInCitation: true
   name: Huang, Lawrence
